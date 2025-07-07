@@ -84,7 +84,7 @@ def add_bg_from_local(image_path):
         unsafe_allow_html=True
     )
 
-add_bg_from_local("D:/guvi/Final_project/testalize-me-UvZBczaG6rc-unsplash.jpg")
+add_bg_from_local("testalize-me-UvZBczaG6rc-unsplash.jpg")
 
 # ------------------ LOAD MODEL & SCALER ------------------
 model = load_model("my_lstm_model.h5")
