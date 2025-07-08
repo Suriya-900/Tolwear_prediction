@@ -82,7 +82,7 @@ def add_bg_from_local(image_path):
         unsafe_allow_html=True
     )
 
-add_bg_from_local("/home/ubuntu/Tolwear_prediction/testalize-me-UvZBczaG6rc-unsplash.jpg")
+add_bg_from_local("testalize-me-UvZBczaG6rc-unsplash.jpg")
 
 
 # ------------------ LOAD MODEL & SCALER ------------------
